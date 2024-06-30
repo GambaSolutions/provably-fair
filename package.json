@@ -1,0 +1,25 @@
+{
+  "name": "provably-fair",
+  "version": "1.0.0",
+  "description": "Provably fair code to verify games at gambagames.gg",
+  "main": "roulette.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GambaSolutions/provably-fair.git"
+  },
+  "keywords": [
+    "provably",
+    "fair",
+    "gambagames"
+  ],
+  "author": "JKM Solutions AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GambaSolutions/provably-fair/issues"
+  },
+  "homepage": "https://github.com/GambaSolutions/provably-fair#readme"
+}
