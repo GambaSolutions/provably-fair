@@ -1,7 +1,7 @@
 import crypto from 'crypto';
 
-const SERVER_SEED = 'cfb29db5686781e9ef2534a89a149aa3cef24182aaef102fd852d8b743611eaa';
-const SERVER_SEED_HASHED = 'ad8da32fa39ee46d2adace70ffb91c9475ff450d65d2eb97e384069052516bfa';
+const SERVER_SEED = 'b1332906167a8d3b6f38cb8644cd5f65eb426581d601300ab51b372cf0802bd6';
+const SERVER_SEED_HASHED = '5d31675041687044d2e9a4146bc9750cdf84d0ef657ac671b62ef896d7fd6f90';
 
 // client seed is the one found in your profile settings
 const CLIENT_SEED = 'df0a9c1a1349a4fda66fbb9be9aefe25';
